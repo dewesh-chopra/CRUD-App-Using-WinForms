@@ -1,0 +1,11 @@
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\bin\Debug\CrudApp_1.exe.config
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\bin\Debug\CrudApp_1.exe
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\bin\Debug\CrudApp_1.pdb
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.csproj.AssemblyReference.cache
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.FormDisplay.resources
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.FormModify.resources
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.Properties.Resources.resources
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.csproj.GenerateResource.cache
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.exe
+F:\PROGRAMMING\C#\C4004\ADO\CrudApp_1\obj\Debug\CrudApp_1.pdb
